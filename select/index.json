@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "しわ",
+  "base_artist": "伊東歌詞太郎",
+  "createdAt": "2026-03-11T01:52:14.368643Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "しわ",
+      "artist": "buzzG feat. GUMI",
+      "has_synced": true,
+      "path": "select/01_しわ_buzzG_feat._GUMI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "しわ",
+      "artist": "buzzG",
+      "has_synced": true,
+      "path": "select/02_しわ_buzzG.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "しわ",
+      "artist": "Ryo-kun",
+      "has_synced": true,
+      "path": "select/03_しわ_Ryo-kun.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "しわ",
+      "artist": "buzzG",
+      "has_synced": false,
+      "path": "select/04_しわ_buzzG.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "しわ",
+      "artist": "buzzG feat.GUMI",
+      "has_synced": false,
+      "path": "select/05_しわ_buzzG_feat.GUMI.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "しわ (refine)　buzzG Feat.GUMI",
+      "artist": "buzzG feat.初音ミク,GUMI",
+      "has_synced": false,
+      "path": "select/06_しわ_(refine)_buzzG_Feat.GUMI_buzzG_feat.初音ミク,GUMI.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "しわ (Piano Arranged Version)",
+      "artist": "Rairu",
+      "has_synced": true,
+      "path": "select/07_しわ_(Piano_Arranged_Version)_Rairu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "しわ",
+      "artist": "伊東歌詞太郎",
+      "has_synced": false,
+      "path": "select/pl_01_しわ_伊東歌詞太郎.txt"
+    }
+  ]
+}
